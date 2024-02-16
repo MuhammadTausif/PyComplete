@@ -17,3 +17,16 @@ text = """
 word = "leads"
 
 print(f"The word '{word}' appears {text.count(word)} times.")
+
+code_snippet = """
+                import numpy as np
+                np.old_function()
+                # Some more code
+                np.old_function()
+                np.new_function()
+               """
+deprecated_function = "np.old_function()"
+print( f"""The deprecated function appears 
+      {code_snippet.count(deprecated_function)}
+        times.""")
+

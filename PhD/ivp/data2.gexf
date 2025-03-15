@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph>
+    <edges>
+      <edge id="0" cardinal="4" source="1" target="2" type="dir" />
+      <edge id="1" cardinal="1" source="2" target="3" type="dir" />
+      <edge id="2" cardinal="1" source="3" target="4" type="dir" />
+    </edges>
+
+    <nodes>
+      <node id="1" label="Michael G Schwern"> </node>
+      <node id="2" label="Mark Fowler"> </node>
+      <node id="3" label="Zoffix Znet"> </node>
+      <node id="4" label="MSERGEANT"> </node>
+    </nodes>
+
+  </graph>
+</gexf>

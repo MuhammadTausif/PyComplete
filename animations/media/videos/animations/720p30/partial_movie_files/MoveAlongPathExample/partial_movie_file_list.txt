@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/MoveAlongPathExample/2016333726_171000347_1000504109.mp4'

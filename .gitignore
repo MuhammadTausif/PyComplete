@@ -163,3 +163,5 @@ cython_debug/
 animations/media/
 videos/abm/media/
 videos/examples/media/
+.qodo
+media/

@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/SpinningTriangle/2266806723_2407181563_901290498.mp4'

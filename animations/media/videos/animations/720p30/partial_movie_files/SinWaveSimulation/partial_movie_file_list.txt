@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/SinWaveSimulation/2016333726_2032322476_223132457.mp4'
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/SinWaveSimulation/543634251_2066557229_2007745538.mp4'
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/SinWaveSimulation/543634251_2962380459_2241662163.mp4'
+file 'file:C:/Users/Public/Dev/practice/PyComplete/animations/media/videos/animations/720p30/partial_movie_files/SinWaveSimulation/543634251_1704852926_1854020184.mp4'
